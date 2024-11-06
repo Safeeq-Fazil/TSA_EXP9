@@ -1,4 +1,6 @@
-# EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
+# EX.NO.09        A Project for forecasting using ARIMA model in Python
+Completion requirements
+Opened: Tuesday, 16 April 2024, 12:00 AM 
 ### Date: 
 
 ### AIM:
