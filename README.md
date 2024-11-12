@@ -1,6 +1,6 @@
 ### Developed by : SAFEEQ FAZIL A
 ### Register no: 212222240086
-### Date:
+### Date: 26.10.2024
 # EX.NO.09        A Project for forecasting using ARIMA model in Python
 
  
